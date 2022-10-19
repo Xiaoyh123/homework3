@@ -66,6 +66,7 @@ nav a:hover{
   transition: top 1s ease-out;
   z-index: 1;
   position: absolute;
+  top: 20px;
 }
 
 /*Your code here*/
@@ -234,5 +235,6 @@ img {
   .skip a{
     -webkit-transition: none;
     transition: none;
+
   }
 }
